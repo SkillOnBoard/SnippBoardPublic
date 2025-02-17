@@ -29,6 +29,15 @@ Since SnippBoard does not have a registered developer license, follow these step
 
 After these steps, the application should run smoothly on your Mac.
 
+## Running the App
+Once the app is installed:
+1. Open the `Applications` folder.
+2. Double-click on the `SnippBoard` icon to launch the app.
+3. **Press `Control + Space`** to activate the app after it opens.
+
+<img width="787" alt="image" src="https://github.com/user-attachments/assets/bfc89130-f279-4a53-873c-d04a8d784d45" />
+
+
 ## Notes
 - SnippBoard does not require additional installation or special configuration.
 - The application is not signed by Apple, so it will always require manual approval on macOS.
