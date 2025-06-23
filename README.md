@@ -6,7 +6,7 @@ SnippBoard is a macOS application designed to facilitate the management and orga
 
 You can download the application from the following link:
 
-[Download SnippBoard V1.1.0](https://github.com/SkillOnBoard/SnippBoardPublic/releases)
+[Download SnippBoard](https://github.com/SkillOnBoard/SnippBoardPublic/releases)
 
 ## Installation on macOS
 
